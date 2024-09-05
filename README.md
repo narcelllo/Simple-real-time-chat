@@ -1,2 +1,2 @@
 # Simple-real-time-chat
-A simple real-time chat system
+A simple real time chat system
